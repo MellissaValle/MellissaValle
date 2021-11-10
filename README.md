@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 ## Projects 
+
+Classification : Customer Churn
+
+For a telecom business. They are interested in reducing how much money is lost because of customers churn. If we can accurately identify any patterns, we can minimize the turn rate for the company, and as a result decrease costs associated with losing and having to regrow its customer base.
+
 ## Blogs
 
 <!--
