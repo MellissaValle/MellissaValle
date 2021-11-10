@@ -10,7 +10,7 @@ Prediction: King County Housing Sale
 
 We were tasked with developing a multiple linear regression model. This model would predict the price of houses in King County, Washington using data from the King County reality dataset. The goal is to provide an accurate prediction for the price of their client’s home before putting it on the market. 
 
-Movie Analysis
+[Movie Analysis](https://github.com/samanthanas/MovieAnalysis)
 
 The purpose of this analysis is to identify opportunities and generate recommendations for Microsoft Studios in anticipation of their new film production company. This analysis serves to create a strategy for success utilizing market data. To gain this insight we used data from IMDB, and The Numbers to find trends in genre, finance, and talent.
 
