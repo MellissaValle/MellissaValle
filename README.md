@@ -6,7 +6,7 @@
 
 For a telecom business. They are interested in reducing how much money is lost because of customers churn. If we can accurately identify any patterns, we can minimize the turn rate for the company, and as a result decrease costs associated with losing and having to regrow its customer base.
 
-[Prediction: King County Housing Sale](https://github.com/Nindorph/KingCountyHousingSaleModel)
+[Prediction: King County Housing Sale](https://github.com/MellissaValle/KingCountyHousingSaleModel)
 
 We were tasked with developing a multiple linear regression model. This model would predict the price of houses in King County, Washington using data from the King County reality dataset. The goal is to provide an accurate prediction for the price of their client’s home before putting it on the market. 
 
