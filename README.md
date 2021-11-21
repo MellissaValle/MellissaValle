@@ -2,17 +2,18 @@
 
 ### Projects 
 
+[Zillow Real Estate Time Series Analysis](https://github.com/MellissaValle/Zillow_Real_Estate_Time_Series_analysis)
+
+Development of a predictive time series modelling on Zillow home sale price data to determine which 5 metro areas in New York State are the most optimal for short term real estate investment. Metric used: ROI.
+
 [Classification : Customer Churn](https://github.com/DaveMcKinley/CustomerChurn)
 
-For a telecom business. They are interested in reducing how much money is lost because of customers churn. If we can accurately identify any patterns, we can minimize the turn rate for the company, and as a result decrease costs associated with losing and having to regrow its customer base.
+Development of a Logistic Regression Model for a telecom business. They are interested in reducing how much money is lost because of customers churn. If we can accurately identify any patterns, we can minimize the turn rate for the company, and as a result decrease costs associated with losing and having to regrow its customer base.
 
 [Prediction: King County Housing Sale](https://github.com/MellissaValle/KingCountyHousingSaleModel)
 
 We were tasked with developing a multiple linear regression model. This model would predict the price of houses in King County, Washington using data from the King County reality dataset. The goal is to provide an accurate prediction for the price of their client’s home before putting it on the market. 
 
-[Movie Analysis](https://github.com/MellissaValle/MovieAnalysis)
-
-The purpose of this analysis is to identify opportunities and generate recommendations for Microsoft Studios in anticipation of their new film production company. This analysis serves to create a strategy for success utilizing market data. To gain this insight we used data from IMDB, and The Numbers to find trends in genre, finance, and talent.
 
 ### Blogs
 [My Medium](https://medium.com/@vallemellissa)
