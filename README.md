@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, this is Mellissa 👋
 
-### Projects 
+## Projects 🔭 
 
 [Zillow Real Estate Time Series Analysis](https://github.com/MellissaValle/Zillow_Real_Estate_Time_Series_analysis)
 
@@ -15,12 +15,21 @@ Development of a Logistic Regression Model for a telecom business. They are inte
 Development of a multiple linear regression model. This model would predict the price of houses in King County, Washington using data from the King County reality dataset. The goal is to provide an accurate prediction for the price of their client’s home before putting it on the market. 
 
 
-### Blogs
+## Blogs 💬 
+
 [My Medium](https://medium.com/@vallemellissa)
 
 - Scikit-learn: Machine learning in Python
 - Docker and Jupyter for Data Scientists
 - Transitioning Career to Data Science
+
+## Lets Connect  📫
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellissa-valle-94604819b/) 
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vallemellissa@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mellissavalle)
+
+
 
 <!--
 **MellissaValle/MellissaValle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
