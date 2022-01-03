@@ -10,7 +10,7 @@ Development of a NLP classification model to analyze job postings and flag those
 
 Development of a predictive time series model on Zillow home sale price data to determine which 5 metro areas in New York State are the most optimal for short term real estate investment. Metric used: ROI.
 
-[Classification : Customer Churn](https://github.com/DaveMcKinley/CustomerChurn)
+[Classification : Customer Churn](https://github.com/MellissaValle/CustomerChurn)
 
 Development of a Logistic Regression Model for a telecom business. They are interested in reducing how much money is lost because of customers churn. If we can accurately identify any patterns, we can minimize the turn rate for the company, and as a result decrease costs associated with losing and having to regrow its customer base.
 
