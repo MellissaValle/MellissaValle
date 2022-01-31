@@ -23,6 +23,7 @@ Development of a multiple linear regression model. This model would predict the 
 
 [Medium](https://medium.com/@vallemellissa)
 
+- Cloud Computing
 - Time Series Forecasting with Facebook Prophet
 - Scikit-learn: Machine learning in Python
 - Docker and Jupyter for Data Scientists
