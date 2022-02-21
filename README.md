@@ -12,11 +12,17 @@ Development of a predictive time series model on Zillow home sale price data to 
 
 [Classification : Customer Churn](https://github.com/MellissaValle/CustomerChurn)
 
-Development of a Logistic Regression Model for a telecom business. They are interested in reducing how much money is lost because of customers churn. If we can accurately identify any patterns, we can minimize the turn rate for the company, and as a result decrease costs associated with losing and having to regrow its customer base.
+Development of a Logistic Regression Model for a telecom business. Accurately identify any patterns to minimize the turn rate for the company, and as a result decrease costs associated with losing and having to regrow its customer base.
 
 [Prediction: King County Housing Sale](https://github.com/MellissaValle/KingCountyHousingSaleModel)
 
-Development of a multiple linear regression model. This model would predict the price of houses in King County, Washington using data from the King County reality dataset. The goal is to provide an accurate prediction for the price of their client's home before putting it on the market. 
+Development of a multiple linear regression model to predict the price of houses in King County, Washington using data from the King County reality dataset. The goal is to provide an accurate prediction for the price of their client's home before putting it on the market. 
+
+## Embedded Systems Projects ⚡ 
+
+[Internet Connected Smart House](https://github.com/MellissaValle/Internet-Connected-Smart-House)
+
+Combination of a computer processor, computer memory, and input/output peripheral devices. Embedded microcontroller hardware connected to several environmental sensors to automate tasks.
 
 
 ## Blogs 💬 
