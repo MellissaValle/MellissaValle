@@ -44,7 +44,7 @@ Combination of a computer processor, computer memory, and input/output periphera
 
 ## Lets Connect  📫
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellissa-valle-94604819b/) 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellissa-v-94604819b/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vallemellissa)
 
 
